@@ -2,6 +2,13 @@
 
 How many trips were made from Lakers Game to the rathskeller pub
 
+Three Solotions
+      1. SAS firstobs=2
+      2. WPS firstobs=2
+      3. WPS Proc R
+         Rh Jang
+         https://stackoverflow.com/users/11926169/yh-jang
+
 github
 https://tinyurl.com/2ufup6j2
 https://github.com/rogerjdeangelis/utl-how-many-trips-were-made-from-Lakers-Game-to-the-rathskeller-pub
